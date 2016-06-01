@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.logging.*;
 import java.util.stream.*;
 
-import org.summoners.cache.util.*;
+import org.summoners.cache.structure.*;
 import org.summoners.util.*;
 
 import static org.summoners.cache.RiotFileUtil.*;

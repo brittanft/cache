@@ -1,4 +1,4 @@
-package org.summoners.cache.util;
+package org.summoners.cache.structure;
 
 /**
  * Representation of a generic archive.
