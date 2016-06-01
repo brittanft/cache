@@ -6,7 +6,7 @@ import java.nio.channels.*;
 import java.nio.file.*;
 import java.util.stream.*;
 
-import org.summoners.cache.util.*;
+import org.summoners.nio.*;
 import org.summoners.util.*;
 
 /**

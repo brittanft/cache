@@ -4,7 +4,7 @@ import java.io.*;
 import java.nio.*;
 import java.util.*;
 
-import org.summoners.cache.util.*;
+import org.summoners.nio.*;
 
 public class SkinDefinition {
 	

@@ -4,7 +4,7 @@ import java.io.*;
 import java.nio.*;
 import java.util.zip.*;
 
-import org.summoners.cache.util.*;
+import org.summoners.nio.*;
 
 /**
  * Representation of a file in an RAF (Riot Archive File).
